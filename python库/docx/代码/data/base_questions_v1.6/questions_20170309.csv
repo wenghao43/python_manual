@@ -1,0 +1,23 @@
+top 10  Teacher Student
+top Teacher Student
+Teacher Student top 10
+Teacher Student top
+Teacher Student sort by creation date 
+Teacher Student sort by name
+Teacher Student sort by date descending
+Teacher Student sort by age ascending
+Teacher Student sort by average views
+Teacher Student sort by average views descending
+Teacher Student average age 
+Teacher name Wednesday 
+Teacher name Thursday 
+Teacher name November 
+Teacher name October 
+Teacher name April 2014 
+Teacher name creation date after 10/31/2012 
+Teacher name creation date before 10/31/2012 
+Teacher name creation date between 10/31/2012 and 10/31/2015 
+count views name age > 218
+count views age > 10 
+count views age between 10 and 20
+count views age <= 10 
